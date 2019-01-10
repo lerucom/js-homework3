@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.com/lerucom/js-homework2.svg?branch=master)](https://travis-ci.com/lerucom/js-homework2) [![codecov](https://codecov.io/gh/lerucom/js-homework2/branch/master/graph/badge.svg)](https://codecov.io/gh/lerucom/js-homework2)
-# ДЗ №2 - Запас хода
+[![Build Status](https://travis-ci.com/lerucom/js-homework3.svg?branch=master)](https://travis-ci.com/lerucom/js-homework3) [![codecov](https://codecov.io/gh/lerucom/js-homework3/branch/master/graph/badge.svg)](https://codecov.io/gh/lerucom/js-homework3)
+# ДЗ №3 - Расчет обоев
