@@ -1,4 +1,4 @@
-import {calculateWallpaper} from "../js/wallpaper";
+import {calculateWallpaper} from "../js/lib.js";
 
 test('calculate amount of wallpapers', () => {
     const roomLength = 6;

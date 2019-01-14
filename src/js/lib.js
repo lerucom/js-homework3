@@ -8,4 +8,4 @@ export function calculateWallpaper(roomLength, roomWidth, roomHeight, wallpaperL
     return amountOfSheets / SheetsInOneWallpaper;
 }
 
-calculateWallpaper(6, 5, 2.75, 10, 1.06); // получаем 7 рулонов обоев
+// calculateWallpaper(6, 5, 2.75, 10, 1.06); // получаем 7 рулонов обоев
