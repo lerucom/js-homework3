@@ -1,11 +1,11 @@
 import {calculateWallpaper} from "./lib.js";
 
 // roomLength, roomWidth, roomHeight, wallpaperLength, wallpaperWidth
-const roomLengthEl = document.getElementById('roomLength');
-const roomWidthEl = document.getElementById('roomWidth');
-const roomHeightEl = document.getElementById('roomHeight');
-const wallpaperLengthEl = document.getElementById('wallpaperLength');
-const wallpaperWidthEl = document.getElementById('wallpaperWidth');
+const roomLengthEl = document.getElementById('room-length');
+const roomWidthEl = document.getElementById('room-width');
+const roomHeightEl = document.getElementById('room-height');
+const wallpaperLengthEl = document.getElementById('wallpaper-length');
+const wallpaperWidthEl = document.getElementById('wallpaper-width');
 const resultEl = document.getElementById('result');
 const calculateEl = document.getElementById('calculate');
 
